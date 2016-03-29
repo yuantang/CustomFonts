@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomFonts</string>
+    <string name="font_name_fontawesone">fontawesome</string>
+    <string name="font_name_sans_pro">SourceSansPro</string>
+    <string name="font_name_personal_use">PersonalUse</string>
+    <integer name="font_style_extra_light">10</integer>
+    <integer name="font_style_extra_bold">11</integer>
+</resources>
